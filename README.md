@@ -4,8 +4,6 @@
   <img width="700" alt="Logo With Title (7)" src="https://user-images.githubusercontent.com/40190772/80605635-9ec69100-8a33-11ea-8dff-5453762373ea.png">
 
 
-
-
 </div>
 
 <h3 align="center">Oud Front-End</h3>
